@@ -1,0 +1,6 @@
+bin
+obj
+packages
+*.hlsl.h
+*.vs
+*.vcxproj.user
